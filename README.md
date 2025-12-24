@@ -8,3 +8,12 @@ menu:
 5. search by title
 6. exit
 
+To build thi project I used:
+while loops 
+scanner 
+hash maps
+conditions
+switch
+int, String, boolean and other datatypes
+! NOT
+methods
